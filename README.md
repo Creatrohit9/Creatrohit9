@@ -8,11 +8,16 @@ Specific fields of interest include Data Science, Machine learning, deep learnin
 
 Talking about Personal Stuffs:
 🔭   I’m currently looking for job opportunities in Data Science Domain
+
 🌱   I’m currently learning Full Stack Data Science
+
 👨🏻‍💻   Most of my projects are available on Github.
+
 📫   How to reach me: creatrohit9@gmail.com.
+
 My Absolute Favorites:
 💻   I love exploring new tech stack and building cool stuffs.
+
 📰   Reading & writing tech blogs whenever possible.
 
 
