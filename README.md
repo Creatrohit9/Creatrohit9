@@ -7,9 +7,9 @@ Data Science Trainee at AlmaBetter where I learned Python, SQL, Statistics, EDA,
 Specific fields of interest include Data Science, Machine learning, deep learning,Natural language Processing learning natural language in tensorflow.
 
 Talking about Personal Stuffs:
-🔭   I’m currently looking for job opportunities in Data Science Domain
+🔭   I’m currently working and looking for some Potential job opportunities in Data Science Domain
 
-🌱   I’m currently learning Full Stack Data Science
+🌱   I’m completed Full Stack Data Science
 
 👨🏻‍💻   Most of my projects are available on Github.
 
